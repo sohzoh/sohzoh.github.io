@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on 対話と思考と実践</title>
+    <link>https://sohzoh.github.io/tags/</link>
+    <description>Recent content in Tags on 対話と思考と実践</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 12 Dec 2020 21:20:08 +0900</lastBuildDate><atom:link href="https://sohzoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>性愛</title>
+      <link>https://sohzoh.github.io/tags/%E6%80%A7%E6%84%9B/</link>
+      <pubDate>Sat, 12 Dec 2020 21:20:08 +0900</pubDate>
+      
+      <guid>https://sohzoh.github.io/tags/%E6%80%A7%E6%84%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>書きかけ</title>
+      <link>https://sohzoh.github.io/tags/%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%91/</link>
+      <pubDate>Sat, 12 Dec 2020 21:20:08 +0900</pubDate>
+      
+      <guid>https://sohzoh.github.io/tags/%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%91/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

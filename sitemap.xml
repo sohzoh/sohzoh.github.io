@@ -3,15 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sohzoh.github.io/talks/</loc>
+    <lastmod>2020-12-12T23:03:49+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://sohzoh.github.io/</loc>
+    <lastmod>2020-12-12T23:03:49+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sohzoh.github.io/talks/%E8%87%AA%E5%88%86%E8%AA%9E%E3%82%8A2020-12/</loc>
+    <lastmod>2020-12-12T23:03:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohzoh.github.io/ideas/</loc>
+    <lastmod>2020-12-12T21:20:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohzoh.github.io/tags/</loc>
+    <lastmod>2020-12-12T21:20:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohzoh.github.io/tags/%E6%80%A7%E6%84%9B/</loc>
+    <lastmod>2020-12-12T21:20:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohzoh.github.io/ideas/%E6%84%9B%E6%83%85%E3%81%AE%E9%80%A3%E7%B6%9A%E4%BD%93/</loc>
+    <lastmod>2020-12-12T21:20:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sohzoh.github.io/tags/%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%91/</loc>
+    <lastmod>2020-12-12T21:20:08+09:00</lastmod>
   </url>
   
 </urlset>
